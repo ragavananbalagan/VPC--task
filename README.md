@@ -1,1 +1,1 @@
-# VPC--task
+set up a VPC with an Internet gateway, create a public subnet, a private subnet make a route table connecting the Internet gateway and the subnets, and launch a Linux EC2 instance by using the above vpc and public subnet.
